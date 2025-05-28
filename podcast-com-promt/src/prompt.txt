@@ -1,0 +1,107 @@
+ 			PROMPT DE TITULO E SUBTITULO DO  PODCAST 
+
+
+CRIE 5 SUGESTÕES DE NOMES CRIATIVOS PARA MEU PODCASTS , O PODCAST FALARA SOBRE TECNOLOGIAS, MAS PRECISAMENTE SOBRE O RAMO DO FULLSTACK, INCLUA TROCADILHOS NERDS.
+
+O PODCAST FALARA SOBRE DICAS E NOVIDADES DO MUNDO DA TECNOLIGIA.
+
+[REGRAS]
+
+HAVERA UM TITULO E SUBTITULO. 
+O NOME TERA ALGUM TROCADILHO COM NOMES DE FILMES DA MARVEL. 
+O NOME TERA PALAVRAS FORTES QUE VENHA REMETER FULLSTACK. 
+TODAS AS PALAVRAS SERA EM PORTUGUES-BR. 
+
+[REGRAS NEGATIVAS]
+
+ NÃO QUERO QUE TENHA PALAVRAS COMO FULLSTACK, FRONT-END OU BACK-END.
+
+---------------------  ||  --------------
+
+            TITULO E SUBTITULO  ESCOLHIDO
+
+TITULO:  "Multiverso das Camadas: Explorando o Devverso"
+
+SUBTITULO : "Dicas e novidades do multiverso tecnológico".
+
+---------------------  ||  -----------------
+
+	PROMPT DE ROTEIRO
+
+SEJA UM GRANDE ROTEIRISTA DE POSCAST, CRIE UM ROTEIRO PARA 
+UM PODCAST CUJO NOME É " Multiverso das Camadas: Explorando o Devverso " QUE TEM POR FOCO O DESENVOLVIMENTO FULLSTACK,COM O PUBLICO ALVO DE INICIANTES .
+
+FORMATO DE ROTEIRO :
+
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[CURIOSIDADE 3]
+
+REGRAS :
+
+- NO BLOCO [INTRODUÇÃO] SUBSTITUA POR UMA INTRODUÇÃO IGUAIS AS INTRODUÇÕES DOS VIDEOS DO CANAL "EI NERD" COMO SE FOSSEM ESCRITOS PELO PETER JORDAN.
+
+-NO BLOCO [CURIOSIDADE 1] SUBSTITUA POR UMA CURIOSIDADE EM BACK-END.
+
+-NO BLOCO [CURIOSIDADE 2] SUSBSTITUA POR UMA CURIOSIDADE EM FRONT-END.
+
+-NO BLOCO [CURIOSIDADE 3] SUBSTITUA POR UMA CURIOSIDADE DE FREEMEWORK.
+
+-O NOME DO APRESENTADOR SERA GABRIEL.
+
+REGRAS NEGATIVAS : 
+
+-NÃO QUERO MUITOS TERMOS TECNICOS
+-NÃO QUERO QUE DURE MAIS QUE 5 MINUTOS.
+
+-------------------  ||  ------------------
+
+		ROTEIRO
+🎬 [INTRODUÇÃO]
+
+E aí, nerds! Beleza? Aqui quem fala é o Gabriel, seu guia oficial nesse incrível, vasto e um pouquinho caótico Multiverso das Camadas! 🚀
+
+Sabe aquele mundo cheio de códigos, mistérios e cafés intermináveis? Pois é, a gente vai explorar ele sem enrolar, sem complicar e, claro, com aquele bom humor que não pode faltar!
+
+Então prepara o coração e o editor de código… porque tá começando mais um episódio épico do seu podcast preferido! Boraaaaa! 😎
+
+💡 [CURIOSIDADE 1] — Back-end
+Começando com um papo de bastidor… Sabia que o primeiro servidor web da história era tão humilde que ficava embaixo da mesa do Tim Berners-Lee, lá no CERN?
+
+Sim, meu amigo! Nem um "gabinete gamer" com LED tinha! 😂
+Mas olha só: dali surgiu a internet como a gente conhece hoje… Isso prova que, no Back-end, o que importa não é a aparência, mas o que sustenta tudo.
+
+Então, fica a dica inspiradora: às vezes, o que tá "escondido" é o mais importante!
+
+💡 [CURIOSIDADE 2] — Front-end
+Agora bora pra camada mais "bonitinha" desse multiverso: o Front-end!
+
+Imagina que até 1993, a internet era só… texto! 😐 Nada de memes, nada de gifs, nem botãozinho piscando… Um verdadeiro deserto visual!
+
+Só depois que surgiu o primeiro navegador com imagens, e aí… PUF! Explodiu a criatividade! Começou essa onda de sites coloridos, menus interativos e aquele famoso "Clique Aqui" piscando igual árvore de Natal. 🎄😂
+
+Ou seja: o Front-end é onde a mágica fica visível… mas cuidado, viu? Bonito demais pode distrair!
+
+💡 [CURIOSIDADE 3] — Framework
+E pra fechar com chave de ouro: sabe o que é um framework?
+
+Imagina que você vai construir uma casa. Você pode ir lá, cortar a madeira, fazer os tijolos, misturar o cimento… ou, melhor ainda, pegar um kit prontinho, com estrutura e tudo, só pra montar!
+
+Pois é, framework é isso: um atalho esperto pra agilizar seu trabalho.
+
+Um dos primeiros a bombar foi o Ruby on Rails, em 2004, e ele mudou a vida de muita gente… Afinal, quem não quer ser produtivo e ainda ter mais tempo pra jogar aquele game ou maratonar série, né? 🎮
+
+🎤 [ENCERRAMENTO]
+E assim, meu amigo, a gente fecha mais uma viagem por esse Multiverso das Camadas…
+
+Lembre sempre: cada parte desse universo é importante — do que tá escondido no fundo do servidor, até o botãozinho que você clica todo dia.
+
+Se curtiu, já compartilha com aquele colega que vive falando “não sei por onde começar”… Aqui, a gente começa juntos e vai longe!
+
+Valeeeeu demais pela tua audiência e… até a próxima, nerds! 👋
+
+----------------------  ||  ----------------------
+
+
+
